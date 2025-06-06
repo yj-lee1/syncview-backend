@@ -10,4 +10,4 @@ def root():
 
 @app.get("/login")
 def login():
-    return "Login OK"
+    return "로그인 성공했어요..."
